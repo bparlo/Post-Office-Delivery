@@ -1,7 +1,7 @@
 # Post-Office-Delivery
 This was a school project written in Python, where we coded a delivery truck simulation. This project was split into two parts: setting up the basic data structures, and delivering the packages as fast as possible given a map.
 
-# Note: I am not providing the code due to University restrictuions. 
+# Note: I am not providing the code due to University restrictions. 
 
 # Part 1
 Part 1 involved completing an unfinished program which would initialize our simulated truck. In this program, we needed to set up methods that enabled our truck to collect and deliver packages at a given location, as well as return a package to a post office without delivering it. The truck also needed to be able to drive from one location to another, and return a list of all of the ids of the packages on the truck at any given time. 
